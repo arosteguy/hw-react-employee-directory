@@ -1,0 +1,112 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "Mr",
+        "first": "Davut",
+        "last": "Türkyılmaz"
+    },
+    "location": {
+        "street": {
+            "number": 2220,
+            "name": "Tunalı Hilmi Cd"
+        },
+        "city": "Eskişehir",
+        "state": "Manisa",
+        "country": "Turkey",
+        "postcode": 16381,
+        "coordinates": {
+            "latitude": "79.0098",
+            "longitude": "-45.2495"
+        },
+        "timezone": {
+            "offset": "+5:45",
+            "description": "Kathmandu"
+        }
+    },
+    "email": "davut.turkyilmaz@example.com",
+    "login": {
+        "uuid": "4dc3a581-12a8-4eff-9d93-60fad1e3eed9",
+        "username": "purpleduck450",
+        "password": "skydive",
+        "salt": "hhNH3971",
+        "md5": "36fbb5253e2c5fd348dae88498f33956",
+        "sha1": "b465f5843c2402d60eeb8b41a5519e7914c3aefa",
+        "sha256": "cc20090d59d4b624f87abd95a436dc294732fd2e7f963a26bde2d6ff74be6466"
+    },
+    "dob": {
+        "date": "1944-11-29T17:29:34.016Z",
+        "age": 76
+    },
+    "registered": {
+        "date": "2019-01-23T21:09:43.718Z",
+        "age": 1
+    },
+    "phone": "(809)-298-8687",
+    "cell": "(207)-421-6657",
+    "id": {
+        "name": "",
+        "value": null
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/62.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/62.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
+    },
+    "nat": "TR"
+},
+{
+    "gender": "male",
+    "name": {
+        "title": "Mr",
+        "first": "Ronald",
+        "last": "Thomas"
+    },
+    "location": {
+        "street": {
+            "number": 7231,
+            "name": "Queens Road"
+        },
+        "city": "Leeds",
+        "state": "Lothian",
+        "country": "United Kingdom",
+        "postcode": "ZQ0 6NX",
+        "coordinates": {
+            "latitude": "59.0911",
+            "longitude": "85.3565"
+        },
+        "timezone": {
+            "offset": "+1:00",
+            "description": "Brussels, Copenhagen, Madrid, Paris"
+        }
+    },
+    "email": "ronald.thomas@example.com",
+    "login": {
+        "uuid": "31c732a9-8b96-4de7-ba69-551633cb0391",
+        "username": "organicbutterfly325",
+        "password": "chestnut",
+        "salt": "wgzooXQb",
+        "md5": "7e45e24c53811aaa3e7256d9982269ed",
+        "sha1": "9d55ea1ad58461f2fa83b43c75204cfe0f0dc41b",
+        "sha256": "a29a26f5aaead02394d88555438cccf265beb81d098174d29398f08270b26f05"
+    },
+    "dob": {
+        "date": "1964-07-18T21:29:58.827Z",
+        "age": 56
+    },
+    "registered": {
+        "date": "2008-12-30T22:42:18.855Z",
+        "age": 12
+    },
+    "phone": "01776 67259",
+    "cell": "0750-813-106",
+    "id": {
+        "name": "NINO",
+        "value": "SG 96 14 24 M"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/19.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
+    },
+    "nat": "GB"
+},
